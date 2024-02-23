@@ -1,5 +1,5 @@
 import React from "react";
-import './soc-media.css';
+import './socialMedia.css';
 import logo from './visual_social_media.webp';
 
 const SocMedia = () => {

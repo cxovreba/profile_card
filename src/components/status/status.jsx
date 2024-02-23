@@ -1,5 +1,5 @@
 import React from "react";
-import './bio.css';
+import './status.css';
 
 const Bio = (props) => {
     return (

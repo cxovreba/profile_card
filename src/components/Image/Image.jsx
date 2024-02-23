@@ -1,4 +1,4 @@
-import './Img.css';
+import './Image.css';
 import React from 'react';
 import logo from './images.png';
 

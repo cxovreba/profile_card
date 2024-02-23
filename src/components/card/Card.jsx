@@ -1,11 +1,11 @@
 import React from "react";
 import './card.css';
-import Title from "../Title/H1";
-import Img from "../img/Img";
+import Title from "../Title/title";
+import Img from "../Image/Image";
 import Line from "../line/Line";
-import Bio from "../bio/Bio";
-import SocMedia from "../soc-media/Soc-media";
-import SubTitle from "../sub-title/Sub-title";
+import Bio from "../status/status";
+import SocMedia from "../socialMedia/socialMedia";
+import SubTitle from "../subtitle/subTitle";
 
 const Card = () => { 
     return (
